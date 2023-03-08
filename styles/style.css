@@ -48,14 +48,12 @@
 /* MAIN */
 
 .apresentacao_index {
-    
-    padding: 3% 10%;
+    padding: 5%;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     background-color: var(--cor-primaria);
     gap: 5.125rem;
-
 }
 
 .apresentacao__conteudo {

@@ -1,7 +1,9 @@
 /* Fonte do título - Montserrat */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,600;0,800;1,600&display=swap');
+/* ROBOTO */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,600;0,800;1,600&family=Roboto+Slab:wght@100;200;300;400;500;600;700&display=swap');
 /* Fonte do parágrafo  - Montserrat Alternates */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100&display=swap');
 /* Fonte do botão */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 
@@ -22,7 +24,7 @@
 /* HEADER */
 
 .cabecalho {
-    padding: 3% 20% 5% 5%;
+    padding: 3% 40% 2% 5%;
     background-color: var(--cor-primaria);
 }
 
@@ -46,56 +48,60 @@
 /* MAIN */
 
 .apresentacao {
-    padding: 3% 10%;
+    padding: 5%;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     background-color: var(--cor-primaria);
-    gap: 5.125rem;
-}
+    gap: 5rem;
+    }
 
 .apresentacao__conteudo {
-    width: 50%;
+    width: 70%;
     display: flex;
     flex-direction: column;
-    gap: 2.5rem;
+    gap: 1.5rem;
 }
 
 .titulo__principal {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 2.5rem;
-    font-weight: 700;
-    color: var(--cor-terciária);
+    color: var(--cor-secundaria);
+    font-size: 2.813rem;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500px;
 }
 
 .titulo__secundario {
-    font-size: 1.875rem;
+    font-size: 1.75rem;
     font-weight: 300;
     font-family: 'Montserrat Alternates', sans-serif;
     color: var(--cor-terciária);
 }
 
-.empresa {
-    font-size: 1.5rem;
-    font-weight: 200;
-    font-family: 'Montserrat Alternates', sans-serif;
-    line-height: 2.25rem;
-    margin: -10px 0px;
-}
-
-.conteudo {
-    font-size: 1.25rem;
+.resumo {
+    font-size: 1.125rem;
     font-weight: 100;
     font-family: 'Montserrat Alternates', sans-serif;
     line-height: 2.25rem;
 }
 
-.conteudo__experiencia {
-    font-size: 1.5rem;
+.conteudo__tecnologias {
+    display: flex;
+    font-size: 1rem;
     font-weight: 100;
     font-family: 'Montserrat Alternates', sans-serif;
     line-height: 2.25rem;
+    gap: 10%;
 }
+
+.conteudo_cursos {
+    font-size: 1rem;
+    font-weight: 100;
+    font-family: 'Montserrat Alternates', sans-serif;
+    line-height: 2.25rem;
+    gap: 10%;
+}
+
+
 
 
 .certificado {
@@ -110,7 +116,7 @@
 }
 
 .apresentacao__img  {
-    width: 50%;
+    width: 35%;
 }
 
 /* FOOTER */
