@@ -1,10 +1,15 @@
-![Front-end-Portfólio Pessoal ](https://user-images.githubusercontent.com/90984603/223616846-9e54c061-9c68-4d0a-b1f7-f2348f135dfa.png)
+
+
+
+
+
 
 # Portfólio Profissional
 
 Esse portfólio foi feito como projeto dos cursos de HTML e CSS da Formação **A partir do zero: HTML e CSS para projetos web**, da Alura.
 
-<img src="" alt="" width="50%">
+https://user-images.githubusercontent.com/90984603/223903677-51bfc87b-bd62-486b-adc5-bcc5c23f15ed.mov
+
 
 
 ## 🔨 Funcionalidades do projeto
@@ -25,4 +30,4 @@ Neste repositório você tem acesso a todo o material produzido no curso.
 
 ## 📚 Mais informações do curso
 
-Busque na plataforma da Aluraa formação **A partir do zero: HTML e CSS para projetos web** publicado na Escola Frontend. Ou acesse o link https://cursos.alura.com.br/formacao-html-css
+Busque na plataforma da Alura formação **A partir do zero: HTML e CSS para projetos web** publicado na Escola Frontend. Ou acesse o link https://cursos.alura.com.br/formacao-html-css
