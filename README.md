@@ -24,7 +24,7 @@ O portfólio é composto de três páginas: A página **Inicial** onde me aprese
 
 ## 📁 Acesso ao projeto
 
-Veja o projeto final do curso em funcionamento (link vercel).
+Veja o projeto final do curso em funcionamento (https://portfolio-anapgantois.vercel.app/).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
